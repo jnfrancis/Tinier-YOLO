@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/ren/rpm/20171117/yolov3/darknet-master/trainset/train.txt
+valid  = /home/ren/rpm/20171117/yolov3/darknet-master/testset/2007_test.txt
+names = data/voc.names
+backup = backup
+

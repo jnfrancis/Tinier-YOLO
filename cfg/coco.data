@@ -1,0 +1,8 @@
+classes= 80
+train  = /home/ren/rpm/20181123/darknet/scripts/coco/trainvalno5k.txt
+#valid  = coco_testdev
+valid = /home/ren/rpm/20181123/darknet/scripts/coco/5k.txt
+names = data/coco.names
+backup = /home/ren/rpm/20171117/yolov3/darknet-master/backup/
+eval=coco
+
